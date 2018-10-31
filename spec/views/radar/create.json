@@ -1,0 +1,4 @@
+{
+  "position": @target.position,
+  "targets": @target.targets
+}
